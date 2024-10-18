@@ -64,6 +64,7 @@ group:
     Qbox-project/qbx_nitro
     Qbox-project/qbx_density
     Qbox-project/qbx_dutyblips
+    Qbox-project/qbx_playerstates
   files:
   - source: repo-template/
     dest: ./
