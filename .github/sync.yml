@@ -3,10 +3,8 @@ group:
     Qbox-project/mhacking
     Qbox-project/npwd_qbx_garages
     Qbox-project/npwd_qbx_mail
-    Qbox-project/PolyZone
     Qbox-project/qbx_adminmenu
     Qbox-project/qbx_ambulancejob
-    Qbox-project/qbx_apartments
     Qbox-project/qbx_bankrobbery
     Qbox-project/qbx_binoculars
     Qbox-project/qbx_busjob
@@ -21,14 +19,10 @@ group:
     Qbox-project/qbx_garages
     Qbox-project/qbx_garbagejob
     Qbox-project/qbx_houserobbery
-    Qbox-project/qbx_houses
     Qbox-project/qbx_hud
     Qbox-project/qbx_idcard
-    Qbox-project/qbx_interior
     Qbox-project/qbx_jewelery
     Qbox-project/qbx_lapraces
-    Qbox-project/qbx_loading
-    Qbox-project/qbx_lockpick
     Qbox-project/qbx_management
     Qbox-project/qbx_mechanicjob
     Qbox-project/qbx_medical
@@ -36,7 +30,6 @@ group:
     Qbox-project/qbx_npwd
     Qbox-project/qbx_pawnshop
     Qbox-project/qbx_policejob
-    Qbox-project/qbx_prison
     Qbox-project/qbx_properties
     Qbox-project/qbx_radialmenu
     Qbox-project/qbx_radio
@@ -52,7 +45,6 @@ group:
     Qbox-project/qbx_towjob
     Qbox-project/qbx_truckerjob
     Qbox-project/qbx_truckrobbery
-    Qbox-project/qbx_vehiclefailure
     Qbox-project/qbx_vehiclekeys
     Qbox-project/qbx_vehicles
     Qbox-project/qbx_vehiclesales
